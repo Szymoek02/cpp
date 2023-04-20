@@ -1,6 +1,9 @@
 #include <iostream>
 #include <time.h>
 #include <windows.h>
+#include <stdio.h>
+
+/*Stajszczyk 1TP*/
 
 using namespace std;
 
