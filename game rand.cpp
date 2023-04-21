@@ -24,13 +24,13 @@ class Game {
                     i++;
                     odp = 0;
                 }
-                if (odp > liczba)
+                else if(odp > liczba)
                 {
                     cout << "Liczba jest mniejsza!" << endl;
                     i++;
                     odp = 0;
                 }
-                if (odp == liczba)
+                else (odp == liczba)
                 {
                     cout << "!!! Wygrales !!!" << endl << "Liczba strzalow:  " << i << endl;
                 }
